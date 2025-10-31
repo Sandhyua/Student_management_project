@@ -1,4 +1,4 @@
-# Student_management-_project
+# Student_management_project
 
 A simple console-based Student Management System built using Python OOP (Object-Oriented Programming) concepts.
 This project allows you to add, view, search, update, and delete student records easily from the terminal.
