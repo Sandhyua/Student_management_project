@@ -5,14 +5,14 @@ This project allows you to add, view, search, update, and delete student records
 
 🧠 Features
 
-✅ Add new student details
-✅ View all student records
-✅ Search student by roll number
-✅ Update student information
-✅ Delete student record
-✅ Simple menu-based navigation
+    ✅ Add new student details
+    ✅ View all student records
+    ✅ Search student by roll number
+    ✅ Update student information
+    ✅ Delete student record
+    ✅ Simple menu-based navigation
 
-💻 Technologies Used
+💻 Technologies Used  
 
 1.Python 3
 2.OOP (Class, Object, Methods, Classmethods)
@@ -20,19 +20,19 @@ This project allows you to add, view, search, update, and delete student records
 
 ⚙️ How It Works
 
-1. Run the Python file in your terminal:
+ Run the Python file in your terminal:
   python student.py
 
-2. Choose from the menu options:
+ Choose from the menu options:
   ================= Student Management System =================
-  . Add Student
-  . View All Students
-  . Search Student by Roll Number
-  . Update Student by Roll Number
-  . Delete Student by Roll Number
-  . Exit
+  1. Add Student
+  2. View All Students
+  3. Search Student by Roll Number
+  4. Update Student by Roll Number
+  5. Delete Student by Roll Number
+  6. Exit
 
-3. Follow the on-screen instructions to manage student data.
+ Follow the on-screen instructions to manage student data.
 📁 Student-Management-project/
 │
 ├── student.py   # Main project file
