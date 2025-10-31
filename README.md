@@ -20,8 +20,8 @@ This project allows you to add, view, search, update, and delete student records
 
 ⚙️ How It Works
 
- Run the Python file in your terminal:
-  python student.py
+1. Run the Python file in your terminal:
+   python student.py
 
  Choose from the menu options:
   ================= Student Management System =================
