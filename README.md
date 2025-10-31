@@ -25,12 +25,12 @@ This project allows you to add, view, search, update, and delete student records
 
 2. Choose from the menu options:
   ================= Student Management System =================
-1. Add Student
-2. View All Students
-3. Search Student by Roll Number
-4. Update Student by Roll Number
-5. Delete Student by Roll Number
-6. Exit
+  1. Add Student
+  2. View All Students
+  3. Search Student by Roll Number
+  4. Update Student by Roll Number
+  5. Delete Student by Roll Number
+  6. Exit
 
 3. Follow the on-screen instructions to manage student data.
 📁 Student-Management-project/
